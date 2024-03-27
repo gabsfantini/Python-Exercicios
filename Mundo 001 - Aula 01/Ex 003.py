@@ -4,3 +4,4 @@ num_1 = int(input('Digite um valor: '))
 num_2 = int(input('Digite um valor: '))
 soma = num_1 + num_2
 print('A soma de {} + {} é igual a {} '.format(num_1, num_2, soma))
+print('Fim')
